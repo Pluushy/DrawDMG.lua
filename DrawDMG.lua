@@ -1,13 +1,3 @@
---[[
-
-DrawDamageLib---Damage data from Deftsu DamageLib!
-   Thank Deftsu
-!
-
-                         by SoulKingLHW 
-]]--
-
-
 require('Inspired')
 require("DamageLib")
  
